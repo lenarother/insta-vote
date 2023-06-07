@@ -4,7 +4,7 @@
 The Insta Vote is a simple application to create polls and live voting.
 
 ### User Interface
-The Weather App will have a simple and intuitive user interface, consisting of the following components:
+The Insta Vote will have a simple and intuitive user interface, consisting of the following components:
 
 - Poll Creation: Users can create a new poll by providing a title, description, and list of options.
 - Poll Sharing: there is a unique URL for each poll, allowing the creator to share it with participants.
